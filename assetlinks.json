@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.fernandofckc_del.horta",
+        "sha256_cert_fingerprints": ["65:D2:89:D0:06:6C:7F:10:0C:32:E4:08:7D:63:C1:B5:19:89:A2:C7:86:5F:40:32:8A:3C:E2:E9:02:35:9D:B6"]
+      }
+    }]
